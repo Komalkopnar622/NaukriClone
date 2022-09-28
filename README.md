@@ -1,4 +1,5 @@
 # NaukriClone
+Deploy Link-https://superlative-semifreddo-e68efc.netlify.app/
 
 Finding the right job made easy with Naukri.com.
 In this website user is be able to see different job openings and can apply to various companies.
